@@ -1,3 +1,3 @@
 # stephanieleechan.github.io
 
-In Progress | HTML | Personal Website to showcase my Resume, Projects all in one convenient location. 
+In Progress | HTML | My Website to showcase my Resume, Work Experience, Projects, and Volunteer Experience all in one convenient location! 
