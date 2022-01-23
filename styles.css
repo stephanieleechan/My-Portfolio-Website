@@ -1,0 +1,60 @@
+* { 
+    box-sizing: border-box;
+    padding: 0;
+    font-family: 'Kumbh Sans' , sans-serif;
+}
+
+.navbar {
+    background: #131313;
+    height: 80px;
+    display: flex;
+    justify-content: center: 
+    font-size: 1.2ram;
+    position: sticky;
+    top:0;
+    z-index: 999;
+}
+
+.navbar__container {
+    display: flex;
+    justify-content: space-betwen;
+    height: 80px;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+
+#navbar__logo {
+    background-color: #fff8e7;
+    background-image: linear-gradient(to top); #d2ecfa 0%, #d7f4d2 
+    100%);
+    background-size: 100%
+    -webkit-background-clip: text;
+    moz-background-clip; text;
+    -webkit-text-fill-color: transparent;
+    display: flex;
+    align-items: center;
+    cursor; pointer;
+    text-docration: none;
+    font-size: Zrem
+}
+
+.fa-gem{
+    margin-right: 0.5rem
+}
+
+.navbarmenu {
+    display: flex;
+    align times: center;
+    list-style: none;
+    text-align: center;
+
+.navbar_item
+}
+
+.navbar__ Stephanie Lee-Chan{
+
+
+*17:05*
